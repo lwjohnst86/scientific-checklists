@@ -1,7 +1,7 @@
 <!-- Note:  -->
 # STROBE Statement
 
-> Note: This is a plain text formatted version of the documents found at the STROBE website. Also, Github Markdown does not format this correctly. Download the html version for better formatting.
+> Note: This is a plain text formatted version of the documents found at the STROBE website. Also, Github Markdown does not format this correctly. View the [html version](http://htmlpreview.github.io/?https://github.com/lwjohnst86/scientific-checklists/blob/master/STROBE.html) for better formatting.
 
 - [STROBE website](www.strobe-statement.org)
 - Cite this [article](http://dx.doi.org/10.1371/journal.pmed.0040297)
