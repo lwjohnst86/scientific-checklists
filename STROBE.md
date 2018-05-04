@@ -3,7 +3,7 @@
 
 > Note: This is a plain text formatted version of the documents found at the STROBE website. Also, Github Markdown does not format this correctly. View the [html version](http://htmlpreview.github.io/?https://github.com/lwjohnst86/scientific-checklists/blob/master/STROBE.html) for better formatting.
 
-- [STROBE website](www.strobe-statement.org)
+- [STROBE website](https://www.strobe-statement.org/)
 - Cite this [article](https://doi.org/10.1371/journal.pmed.0040297)
 - Copyright: &copy; ISPM - University of Bern, 2009
 
